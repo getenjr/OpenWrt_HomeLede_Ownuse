@@ -184,6 +184,7 @@ CONFIG_DEFAULT_luci-app-cifs-mount=y
 # CONFIG_DEFAULT_luci-app-homeconnect is not set
 # CONFIG_DEFAULT_luci-app-homeredirect is not set
 # CONFIG_DEFAULT_luci-app-jd-dailybonus is not set
+CONFIG_DEFAULT_luci-proto-modemmanager
 CONFIG_DEFAULT_luci-app-mwan3=y
 CONFIG_DEFAULT_luci-app-nlbwmon=y
 CONFIG_DEFAULT_luci-app-ramfree=y
